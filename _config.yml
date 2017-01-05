@@ -24,7 +24,7 @@ credits: '<p>Created with <a href="http://phlow.github.io/feeling-responsive/">F
 author: Koen Hufkens
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: ''
+url: 'https://khufkens.github.io/cobecore'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
