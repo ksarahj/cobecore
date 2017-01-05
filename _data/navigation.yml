@@ -1,0 +1,35 @@
+- title: Start
+  url: ""
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Research
+  url: "/research/"
+  side: left
+
+- title: Data & Code
+  url: "/data/"
+  side: left
+
+- title: Documentation
+  url: "/proposal/"
+  side: left
+  dropdown:
+  - title: "Full Proposal"
+    url: "/proposal/"
+  - title: "Time Table"
+    url: "/timeline/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

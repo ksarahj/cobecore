@@ -1,0 +1,38 @@
+---
+#
+# Use the widgets beneath and the content will be
+# inserted automagically in the webpage. To make
+# this work, you have to use › layout: frontpage
+#
+layout: frontpage
+header:
+  image_fullwidth: header_4.jpg
+#widget1:
+ # title: "Blog & Portfolio"
+ # url: 'http://phlow.github.io/feeling-responsive/blog/'
+ # image: widget-1-302x182.jpg
+ # text: 'some other text'
+#widget2:
+ # title: "Why use this theme?"
+ # url: 'http://phlow.github.io/feeling-responsive/info/'
+ # text: 'html is allowed'
+#widget3:
+ # title: "Download Theme"
+ # url: 'https://github.com/Phlow/feeling-responsive'
+ # image: widget-github-303x182.jpg
+ #  text: 'testtext'
+  
+# back link to the main page (page name)
+permalink: /index.html
+
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+homepage: true
+---
+
+The Congo basin eco-climatological data recovery and valorisation (COBECORE) project brings together an interdisciplinary network of partners (i.e. Ghent University, Royal Museum for Central Africa, the Botanical Garden Meise, and the State Archive of Belgium), which include the main institutes curating eco-climatological legacy data of the central Congo Basin, with the objective to establish baseline measurements necessary in long-term (retrospective) ecological and climatological research by valorising as of yet unexplored historical data.
+
+COBECORE will develop a multi-faceted database, by making the static analog archives of the Institut National pour l'Etude Agronomique du Congo belge (INEAC) digitally accessible in addition to extracting eco-physiological relevant plant traits from historical herbarium specimens. In order to speed up data processing, and provide public outreach, we will crowd-source transcription of the eco-climatological data and some of the recovered plant traits.
+
+---
