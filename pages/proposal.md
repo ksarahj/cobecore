@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "online version of the proposal"
 permalink: "/proposal/"
 header:
-   image_fullwidth: "header_3.jpg"
+   image_fullwidth: "header_5.jpg"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
