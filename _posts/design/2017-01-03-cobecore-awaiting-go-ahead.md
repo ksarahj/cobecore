@@ -2,15 +2,17 @@
 layout: page-fullwidth
 subheadline: 
 title:  "COBECORE awaiting go ahead"
-teaser: "COBECORE awaits final go ahead as government decides on science budgets"
+teaser: "Although COBECORE has been accepted as to be funded, some political hurdles remain..."
 breadcrumb: true
 tags:
     - cobecore
-    - project management
+    - management
 categories:
-    - project management
+    - management
 header:
    image_fullwidth: "header_5.jpg"   
 ---
 
-COBECORE brings together an interdisciplinary network of partners, including the main institutes curating eco-climatological legacy data of the central Congo Basin. The global objective of this 4-year project is to establish baseline measurements necessary in long-term ecological and climatological research, valorizing as of yet unexplored heritage. To this end, COBECORE will develop a multi-faceted database, by making the static analog INEAC archives digitally accessible and extracting eco-physiological relevant plant traits from historic BGM herbarium specimens. In order to speed up data processing, and provide highly visible public outreach, we will crowd-source transcription of the climatological data and stomatal density counts.
+Although COBECORE has been accepted as to be funded, some political hurdles remain. Currently we are waiting final approval of the scientific working budget of the comming year. Although this should be a formality no working budget can be released until after signing of the budget.
+
+We await the decision of [Elke Sleurs](http://www.belgium.be/nl/over_belgie/overheid/federale_overheid/federale_regering/samenstelling_regering/index_elke_sleurs) on finalizing and approving the budget before formally starting the COBECORE project.
