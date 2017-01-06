@@ -9,14 +9,12 @@ header:
 
 The COBECORE research budget per partner and spending post. All values are in Euro.
 
-<style type="text/css">
-	@page {  }
+<style>
 	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
 	td, th { vertical-align:top; font-size:12pt;}
 	h1, h2, h3, h4, h5, h6 { clear:both }
 	ol, ul { margin:0; padding:0;}
 	li { list-style: none; margin:0; padding:0;}
-	<!-- "li span.odfLiEnd" - IE 7 issue-->
 	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
 	span.footnodeNumber { padding-right:1em; }
 	span.annotation_style_by_filter { background-color:#fff000;  margin:0; border:0; padding:0;  }
@@ -73,7 +71,6 @@ The COBECORE research budget per partner and spending post. All values are in Eu
 	.Table1_B { width:25mm; }
 	.T1 { font-weight:bold; }
 	.T2 { font-weight:bold; }
-	<!-- ODF styles with no properties representable as CSS -->
 	.Table1.1  { }
 </style>
 
