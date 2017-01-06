@@ -18,13 +18,12 @@
   side: left
 
 - title: Documentation
-  url: "/proposal/"
   side: left
   dropdown:
   - title: "Full Proposal"
     url: "/proposal/"
-  - title: "Time Table"
-    url: "/timeline/"
+  - title: "Budget"
+    url: "/budget/"
 
 - title: "Search"
   url: "/search/"
