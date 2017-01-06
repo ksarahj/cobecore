@@ -6,6 +6,8 @@ teaser: "online version of the proposal as submitted"
 permalink: "/proposal/"
 header:
    image_fullwidth: "header_5.jpg"
+   caption: The Yangambi (DRC) meteorological office
+   caption_url: https://goo.gl/maps/riAVJN4xWSw
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

@@ -3,7 +3,9 @@ layout: page
 title: "Data & Code"
 permalink: "/data/"
 header:
-   image_fullwidth: "header_5.jpg"
+   image_fullwidth: "header_5.jpg"  
+   caption: The Yangambi (DRC) meteorological office
+   caption_url: https://goo.gl/maps/riAVJN4xWSw
 ---
 
 The COBECORE project aims towards full transparency of the scientific process to ensure proper replicability and allow for others to maximally benefit from both data and procedures leading up to data recovery (digization / transcription / citizen science).

@@ -7,6 +7,8 @@
 layout: frontpage
 header:
   image_fullwidth: header_5.jpg
+  caption: The Yangambi (DRC) meteorological office
+  caption_url: https://goo.gl/maps/riAVJN4xWSw
 #widget1:
  # title: "Blog & Portfolio"
  # url: 'http://phlow.github.io/feeling-responsive/blog/'
