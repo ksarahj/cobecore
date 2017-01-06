@@ -31,7 +31,7 @@ permalink: index.html
 homepage: true
 ---
 
-The Congo basin eco-climatological data recovery and valorisation (COBECORE) project brings together an interdisciplinary network of partners (i.e. Ghent University, Royal Museum for Central Africa, the Botanical Garden Meise, and the State Archive of Belgium), which include the main institutes curating eco-climatological legacy data of the central Congo Basin, with the objective to establish baseline measurements necessary in long-term (retrospective) ecological and climatological research by valorising as of yet unexplored historical data.
+The Belgian Science Policy Office funded Congo basin eco-climatological data recovery and valorisation (COBECORE) project brings together an interdisciplinary network of partners (i.e. Ghent University, Royal Museum for Central Africa, the Botanical Garden Meise, and the State Archive of Belgium) with the objective to establish baseline measurements necessary in long-term (retrospective) ecological and climatological research by valorising unexplored historical data.
 
 COBECORE will develop a multi-faceted database, by making the static analog archives of the Institut National pour l'Etude Agronomique du Congo belge (INEAC) digitally accessible in addition to extracting eco-physiological relevant plant traits from historical herbarium specimens. In order to speed up data processing, and provide public outreach, we will crowd-source transcription of the eco-climatological data and some of the recovered plant traits.
 

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "COBECORE"
 subheadline: ""
-teaser: "online version of the proposal"
+teaser: "online version of the proposal as submitted"
 permalink: "/proposal/"
 header:
    image_fullwidth: "header_5.jpg"
@@ -110,6 +110,7 @@ A significant selection of the historical aerial imagery of the Yangambi region 
 **3. Transcription (Objective 1):**
 
 Final valorization of the digital images of climatological data, i.e. converting image data to actual usable scientific data, will be performed by experts and through crowd-sourcing. Project researchers will transcribe 10% of the total dataset. Preference will be given in this effort to the most important meteorological records on file (longest and most complete time series) and/or very hard to read cases. This expert dataset will serve as a validation dataset for the crowd-sourcing campaign. The crowd-sourcing campaign will serve as a cost effective way of transcribing data while at the same time reaching out to the public to engage with current research within federal institutes. Both measures ensure a proper validation set to evaluate crowd-sourced transcriptions and a guaranteed quick return of usable data.
+
 All data will be transcribed on the Zooniverse citizen science platform using their recently introduced project builder interface. The project will follow the structure of the successful crowd-sourcing project such as “Jungle Rhythms” and  “Old Weather”. Citizen scientists will be asked to mark all locations of notations of text and numbers in an image (data sheet). Subsequently, the coordinates of these marks will be used to generate small subsets of the original digital image. These small subsets including a single word or number will then be shown 5 times to volunteers for further transcriptions. A majority rule will be used to determine the final accepted values. Both processes will be staggered in time where possible to ensure an optimal work-flow. Similarly, the number of herbarium specimens for processing of stomatal traits is limited due to the time intensive counting. Once more we will crowd-source this easy but time-consuming task, while retaining full control over 10% of the data for validation and rapid turnover of key species.
 
 **4. Geo-referencing and texture extraction (Objective 2):**
@@ -120,11 +121,11 @@ Insight into the structure of the canopy is valuable to assess the representativ
 
 **5. Leaf level traits (Objective 3):**
 
-Leaf traits of stomatal conductance, specific leaf area (the ratio of leaf area to dry mass) and leaf surface area, are important parameters in ecosystem models and indicators of adaptation to climate change in their own right11,12. Stomatal traits (density and gwmax) of the selected herbarium specimens will be collected using a water based varnish method. Here a tin coat of varnish is applied to the leaf surface, dried, removed using clear tape and mounted on a microscope slide. At 3 locations (replicates) on the imprint images will be made at magnifications of 100x or 400x. High magnification limits the depth of field of the focal plane. Therefore, on each location, multiple images throughout the focal plane will be focus stacked to create a consistently sharp image across the field of view. Finally, stomatal parameters will be calculated for the focus stacked images. These parameters include, stomatal density (SD, stomates per m2) and gmax using the diffusion equation by Franks & Beerling (2009)12: 
+Leaf traits of stomatal conductance, specific leaf area (the ratio of leaf area to dry mass) and leaf surface area, are important parameters in ecosystem models and indicators of adaptation to climate change in their own right<sup>11,12</sup>. Stomatal traits (density and gwmax) of the selected herbarium specimens will be collected using a water based varnish method. Here a tin coat of varnish is applied to the leaf surface, dried, removed using clear tape and mounted on a microscope slide. At 3 locations (replicates) on the imprint images will be made at magnifications of 100x or 400x. High magnification limits the depth of field of the focal plane. Therefore, on each location, multiple images throughout the focal plane will be focus stacked to create a consistently sharp image across the field of view. Finally, stomatal parameters will be calculated for the focus stacked images. These parameters include, stomatal density (SD, stomates per m<sup>2</sup>) and gmax using the diffusion equation by Franks & Beerling (2009)<sup>12</sup>: 
 
 gwmax = ( dw * SD * pamax / y ) / (pd + π/2 (pamax / π )1/2),
  
-where dw is the diffusivity of water vapour at 25°C and v the molar volume of air (constants), pamax is maximum stomatal pore area (m2) calculated as an ellipse using stomatal pore length (m) as the long axis and l/2 as the short axis; pd is stomatal pore depth (m) considered to be equivalent to the width of an inflated, fully turgid guard cell. The specific leaf area and leaf surface area parameters will be derived by scanning and weighing the leaves used in the analysis of stomatal traits. Similar analysis were executed by Dr. Stoffelen and Dr. Vandelook (partners 6 & 7) within the context of the Biospheretraits project. As such COBECORE will expand upon previous research efforts (see state-of-the-art).
+where dw is the diffusivity of water vapour at 25°C and v the molar volume of air (constants), pamax is maximum stomatal pore area (m<sup>2</sup>) calculated as an ellipse using stomatal pore length (m) as the long axis and l/2 as the short axis; pd is stomatal pore depth (m) considered to be equivalent to the width of an inflated, fully turgid guard cell. The specific leaf area and leaf surface area parameters will be derived by scanning and weighing the leaves used in the analysis of stomatal traits. Similar analysis were executed by Dr. Stoffelen and Dr. Vandelook (partners 6 & 7) within the context of the Biospheretraits project. As such COBECORE will expand upon previous research efforts (see state-of-the-art).
 
 **6. Database management and dissemination (Objective 4):**
 
@@ -134,9 +135,9 @@ We will use a “Not only” SQL (noSQL) database to store the variety of data f
 
 The proposal deals with unexplored heritage as such all data sources will be available in either the State Archive, the RMCA or the Botanic Garden Meise (and by extension the Yangambi INERA library). No new specimens will be collected or measurements made, only existing historical data will be valorized through digitization of existing collections. Here, we merely convert analog archives into digitally and easily accessible data which will inform further research and/or policy, this in line with the scope of the call.
 
-Costs associated with processing these existing datasets of unexplored heritage mainly involve the digitization and transcription of material stored in the archives or re-analysis of herbarium specimen (see methods). Costs include substantial manual labour indexing and digitizing data (archived paperwork or herbarium specimen), transcription, post-processing, data management, software and API development and public outreach efforts due to the crowd-sourcing component of the project. The timing and costs of these actions are reflected in the time-table and budget of this proposal (see sections 2.5 & 6).
+Costs associated with processing these existing datasets of unexplored heritage mainly involve the digitization and transcription of material stored in the archives or re-analysis of herbarium specimen (see methods). Costs include substantial manual labour indexing and digitizing data (archived paperwork or herbarium specimen), transcription, post-processing, data management, software and API development and public outreach efforts due to the crowd-sourcing component of the project. The timing and costs of these actions are reflected in the time-table and budget of this proposal.
 
-Below we provide the list of data sources we will consult to create the three data streams as described in the Methods section 2.2.
+Below we provide the list of data sources we will consult to create the three data streams as described in the Methods section.
 
 **Sections of the INEAC inventory (and page number) of particular interest include:**
 
