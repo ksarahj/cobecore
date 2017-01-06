@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Budget"
 meta_title: "Budget"
 permalink: "/budget/"
