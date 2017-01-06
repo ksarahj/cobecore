@@ -4,7 +4,7 @@ title: "Budget"
 meta_title: "Budget"
 permalink: "/budget/"
 header:
-   image_fullwidth: "header_4.jpg"
+   image_fullwidth: "header_6.jpg"
 ---
 
 The COBECORE research budget per partner and spending post. All values are in Euro.
