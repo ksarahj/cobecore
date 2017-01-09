@@ -7,7 +7,7 @@ header:
    image_fullwidth: "header_6.jpg"
 ---
 
-The COBECORE research project is funded to the amount of 584 488 EUR and is lead by Ghent University in collaboration with three federal research institutes. The COBECORE project is a collaborative effort of multiple team members per institute. We refer to the members page for a detailed list of all team members and their expertise.
+The COBECORE research project is funded by the [Belgian Science Policy Office](https://www.belspo.be/belspo/index_en.stm) to the amount of EUR 584 488 and is lead by Ghent University in collaboration with three federal research institutes. The COBECORE project is a collaborative effort of multiple team members per institute. We refer to the [team members page](/team/) for a detailed list of all team members and their expertise.
 
 <style>
 	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
@@ -104,7 +104,7 @@ The COBECORE research project is funded to the amount of 584 488 EUR and is lead
       </td>
    </tr>
       <tr class="Table11">
-      <td style="text-align:left; " class="Table1_A8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P1"><span class="T1">T</span><span class="T2">otal</span></p>
       </td>
       <td style="text-align:left; " class="Table1_B8">
