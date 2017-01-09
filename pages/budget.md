@@ -107,19 +107,19 @@ The COBECORE research project is funded by the [Belgian Science Policy Office](h
       <td style="text-align:left; " class="Table1_A2">
          <p class="P1"><span class="T1">T</span><span class="T2">otal</span></p>
       </td>
-      <td style="text-align:left; " class="Table1_B8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P2">210,640</p>
       </td>
-      <td style="text-align:left; " class="Table1_C8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P2">174,348</p>
       </td>
-      <td style="text-align:left; " class="Table1_D8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P2">150,990</p>
       </td>
-      <td style="text-align:left; " class="Table1_E8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P2">48,510</p>
       </td>
-      <td style="text-align:left; " class="Table1_F8">
+      <td style="text-align:left; " class="Table1_A2">
          <p class="P2">584,488</p>
       </td>
    </tr>
