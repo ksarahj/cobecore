@@ -9,6 +9,8 @@ header:
 
 The COBECORE research project is funded by the [Belgian Science Policy Office](https://www.belspo.be/belspo/index_en.stm) to the amount of EUR 584 488 and is lead by Ghent University in collaboration with three federal research institutes. The COBECORE project is a collaborative effort of multiple team members per institute. We refer to the [team members page](/team/) for a detailed list of all team members and their expertise.
 
+<!--
+
 <style>
 	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
 	td, th { vertical-align:top; font-size:12pt;}
@@ -124,3 +126,5 @@ The COBECORE research project is funded by the [Belgian Science Policy Office](h
       </td>
    </tr>
 </table>
+
+-->
