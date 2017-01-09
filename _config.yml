@@ -195,6 +195,43 @@ socialmedia:
     facebook: koenhufkens
 
 
+# Team names, titles and social links
+pi:
+- name: Koen Hufkens
+  pic: koen
+  position: Project Lead, Ecologist<br>(Harvard University)
+  social:
+    - title: twitter
+      url: https://twitter.com/koen_hufkens
+    - title: linkedin
+      url: https://www.linkedin.com/pub/koen-hufkens/3/a49/639
+    - title: bitbucket 
+      url: http://bitbucket.org/khufkens
+    - title: envelope
+      url: mailto:koen.hufkens@gmail.com
+    - title: external-link-square
+      url: http://www.khufkens.com
+
+people:
+- name: Hans Beeckman
+  pic: hans
+  position: Wood Biologist<br>(Africa Museum)
+  social:
+    - title: envelope
+      url: mailto:hans.beeckman@africamuseum.be 
+    - title: external-link-square
+      url: http://www.africamuseum.be/museum/home/contact/staff/BEECKMAN_Hans
+
+- name: Hans Verbeeck
+  pic: hansv
+  position: Tropical Ecologist<br>(Ghent University)
+  social:
+    - title: envelope
+      url: mailto:Hans.Verbeeck@UGent.be
+    - title: external-link-square
+      url: http://www.ugent.be/bw/temb/en/research/cavelab/
+
+
 #        ____  _
 #       / __ \(_)________ ___  _______
 #      / / / / / ___/ __ `/ / / / ___/

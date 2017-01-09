@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline: 
 title:  "COBECORE project accepted for funding"
 teaser: "Past September (2016) we wrote the 'Congo basin eco-climatological data recovery and valorisation' or COBECORE proposal..."

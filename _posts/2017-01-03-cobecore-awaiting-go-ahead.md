@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 subheadline: 
 title:  "COBECORE awaiting go ahead"
 teaser: "Although COBECORE has been accepted as to be funded, some political hurdles remain..."
