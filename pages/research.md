@@ -10,4 +10,8 @@ header:
 
 ---
 
-Research
+The research pages describe in detail the methodology used in the COBECORE project. Although most of the methodology is briefly outlined in the proposal the actually implementation is subject to change. As such, the final methodology applied will be summarized on these pages.
+
+In addition, intermediate results will be listed. These static pages will mainly contain previous blog posts which due to the progression of the progress would get burried.
+
+Please browse through the sub-menus to access additional content.
