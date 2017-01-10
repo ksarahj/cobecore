@@ -205,31 +205,65 @@ pi:
       url: https://twitter.com/koen_hufkens
     - title: linkedin
       url: https://www.linkedin.com/pub/koen-hufkens/3/a49/639
-    - title: bitbucket 
-      url: http://bitbucket.org/khufkens
-    - title: envelope
+    - title: github
+      url: http://github.com/khufkens
+    - title: mail
       url: mailto:koen.hufkens@gmail.com
-    - title: external-link-square
+    - title: globe
       url: http://www.khufkens.com
-
-people:
-- name: Hans Beeckman
-  pic: hans
-  position: Wood Biologist<br>(Africa Museum)
-  social:
-    - title: envelope
-      url: mailto:hans.beeckman@africamuseum.be 
-    - title: external-link-square
-      url: http://www.africamuseum.be/museum/home/contact/staff/BEECKMAN_Hans
 
 - name: Hans Verbeeck
   pic: hansv
   position: Tropical Ecologist<br>(Ghent University)
   social:
-    - title: envelope
+    - title: mail
       url: mailto:Hans.Verbeeck@UGent.be
-    - title: external-link-square
+    - title: globe
       url: http://www.ugent.be/bw/temb/en/research/cavelab/
+      
+people:
+- name: Hans Beeckman
+  pic: hans
+  position: Wood Biologist<br>(Royal Museum for Central Africa)
+  social:
+    - title: mail
+      url: mailto:hans.beeckman@africamuseum.be
+    - title: globe
+      url: http://www.africamuseum.be/museum/home/contact/staff/BEECKMAN_Hans
+
+- name: Kim Jacobsen
+  pic: kim
+  position: Biological collection and data management<br>(Royal Museum for Central Africa)
+  social:
+    - title: mail
+      url: mailto:kim.jacobsen@africamuseum.be
+    - title: globe
+      url: https://www.researchgate.net/profile/Kim_Jacobsen
+
+- name: Piet Stoffelen
+  pic: piet
+  position: Curator Vascular Herbarium<br>(Botanic Garden Meise)
+  social:
+    - title: mail
+      url: piet.stoffelen@botanicgardenmeise.be
+    - title: globe
+      url: http://www.br.fgov.be/research/PROJECTS/staff_Curator_Herbarium.php
+
+- name: Filip Vandelook
+  pic: filip
+  position: Researcher<br>(Botanic Garden Meise)
+  social:
+    - title: mail
+      url: mailto:filip.vandelook@plantentuinmeise.be
+    - title: globe
+      url: https://www.researchgate.net/profile/Filip_Vandelook 
+
+- name: Michael Amara
+  pic: user
+  position: Head of the Contemporary Archives<br>(National Archives of Belgium)
+  social:
+    - title: mail
+      url: mailto:Michael.Amara@arch.be
 
 
 #        ____  _
