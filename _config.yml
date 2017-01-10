@@ -199,7 +199,7 @@ socialmedia:
 pi:
 - name: Koen Hufkens
   pic: koen
-  position: Project Lead, Ecologist<br>(Harvard University)
+  position: Principal Investigator, Ecologist<br>(Harvard University)
   social:
     - title: twitter
       url: https://twitter.com/koen_hufkens
@@ -214,7 +214,7 @@ pi:
 
 - name: Hans Verbeeck
   pic: hansv
-  position: Tropical Ecologist<br>(Ghent University)
+  position: Principal Investigator, Tropical Ecologist<br>(Ghent University)
   social:
     - title: mail
       url: mailto:Hans.Verbeeck@UGent.be
