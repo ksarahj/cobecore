@@ -6,6 +6,8 @@ teaser: ""
 permalink: "/contact/"
 header:
    image_fullwidth: "header_4.jpg"
+   caption: Sunset in Yangambi (DRC)
+   caption_url: https://goo.gl/maps/ZxrHubWMZso
 ---
 
 Please direct all questions regarding the COBECORE project to the [principal investigators](http://www.cobecore.org/team).
