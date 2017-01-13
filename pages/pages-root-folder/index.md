@@ -33,7 +33,7 @@ permalink: index.html
 homepage: true
 ---
 
-<figure style="float: right; margin: 0px 15px 15px 30px;"><img src="/images/example_data.jpg" >
+<figure style="float: right; margin: 0px 0px 15px 30px;"><img src="/images/example_data.jpg" >
    <figcaption><em>An example climatological record</em></figcaption>
 </figure>
 
