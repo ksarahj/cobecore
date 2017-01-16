@@ -258,6 +258,15 @@ people:
     - title: globe
       url: https://www.researchgate.net/profile/Filip_Vandelook 
 
+- name: Jan Van den Bulcke
+  pic: jan
+  position: Researcher<br>(Woodlab)
+  social:
+    - title: mail
+      url: mailto:Jan.VandenBulcke@UGent.be
+    - title: globe
+      url: http://www.ugent.be/bw/dfwm/en/research/woodlab/Staff/jan-van-den-bulcke.htm
+
 - name: Michael Amara
   pic: user
   position: Head of the Contemporary Archives<br>(National Archives of Belgium)
